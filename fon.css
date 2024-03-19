@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background-color: rgb(54, 54, 54);
+}
+h1 {
+    font-size: 50px;
+    color: aliceblue;
+}
+button {
+    width: 80px; height: 80px; /* Размеры кнопки */
+    background-color: #f2ff7e; /* Цвет фона */
+    border-radius: 50%; /* Радиус скругления */
+    border: none;
+}
